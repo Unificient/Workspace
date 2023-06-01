@@ -1,0 +1,11 @@
+{
+  "username": "admin@uf.team.sb",
+  "password": "U001*F003@",
+  "url"     : "https://unificient--sgdev.sandbox.my.salesforce.com/",
+  "filename" : "./reports/ept.json",
+  "test_id" : "ST0140",
+  "file_name" : "EPT"
+}
+
+
+
